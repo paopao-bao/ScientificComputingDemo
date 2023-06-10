@@ -7,11 +7,11 @@ The client demo writen in Python.
 |not done yet | English version |
 
 ### Prerequisites
-The "threebody_simulation" service is running on a container. （You can pull the docker image from Docker Hub and run it locally or on cloud; the image name is "threebody_simulation".）   
-需要在容器上运行threebody_simulation服务。（从docker hub上pull来镜像，在本机或云上运行；镜像的名字是threebody_simulation。）  
+The "threebody_simulation" backend service is running on a container. （You can pull the docker image from Docker Hub and run it locally or on cloud; the image name is "threebody_simulation".）   
+需要在容器上运行threebody_simulation后端服务。（从docker hub上pull来镜像，在本机或云上运行；镜像的名字是threebody_simulation。）  
 
-### P.S. Recipe for the backend service 
-后端服务使用方法
+### P.S. Recipe for the backend service  
+后端服务使用方法  
 1, Start docker, and pull the image from docker hub. 启动docker后拉下镜像。
 *docker pull threebody_simulation*
 

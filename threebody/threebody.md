@@ -1,10 +1,8 @@
 ### Intro
-The client demo writen in Python.   
-用python写的示例程序  
-|filename | comments|
-|:---|:---|
-|threeBodyClient-Chinese.ipynb | 中文版 |
-|not done yet | English version |
+threeBodyClient is a frontend demo written in Python.   
+threeBodyClient是用python写的前端示例程序   
+
+![the architecture](https://github.com/paopao-bao/ScientificComputingDemo/blob/main/threebody/figs/architecture.png)
 
 ### Prerequisites
 The "threebody_simulation" backend service is running on a container. （You can pull the docker image from Docker Hub and run it locally or on cloud; the image name is "threebody_simulation".）   

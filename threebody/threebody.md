@@ -1,6 +1,6 @@
 ### Intro
-threeBodyClient is a frontend demo written in Python.   
-threeBodyClient是用python写的前端示例程序   
+threeBodyClient is a frontend demo written in Python. This demo is to show you how to call the API provided by "threebody_simulation". The front end passes the request to the back end through the restful API; and obtains the simulation result from the back end.  
+threeBodyClient是用python写的前端示例程序, 目的是向大家展示如何调用"threebody_simulation"提供的API。前端传递参数给后端服务，并获得后端的仿真结果。      
 
 ![the architecture](https://github.com/paopao-bao/ScientificComputingDemo/blob/main/threebody/figs/architecture.png)
 
